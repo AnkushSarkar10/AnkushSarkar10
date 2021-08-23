@@ -37,6 +37,9 @@
 ---
 
 
+[![Spotify](https://github-spotify-ochre.vercel.app/api/spotify)](https://open.spotify.com/user/p6a4y5olgr2wnq1nmldohj0vd)
+
+
 [twitter]: https://twitter.com/Ankush_Sarkar_
 [instagram]: https://www.instagram.com/_blaze_kush_/
 [linkedin]: https://www.linkedin.com/in/ankush-sarkar-a55a5b213/
@@ -53,6 +56,6 @@ curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorizat
 
 AQDH9LewvX8l1h6UpUbDYajUWQXiscMnKh5_Pih8P6foPu4pJuqFie39aM8p1vWQ1Lj9IBJyXSUvYglBe7k7CyyH-SHD6KUkM9WsJGvV1bw4whcNz48mMGLaONAdXRIO64Y -->
 
-[![Spotify](https://github-spotify-ochre.vercel.app/api/spotify)](https://open.spotify.com/user/blaze_kush_)
+
 
 <!-- github-spotify-ochre.vercel.app -->
