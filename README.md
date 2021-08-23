@@ -31,12 +31,17 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/flutter.svg" />
-<br/>
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/flutter.svg" class="flutter_color" />
+
+<style>
+.flutter_color{
+    filter: invert(19%) sepia(72%) saturate(2148%) hue-rotate(189deg) brightness(104%) contrast(103%);
+}
+</style>
+
 <br/>
 
 ---
-
 
 
 [twitter]: https://twitter.com/Ankush_Sarkar_
