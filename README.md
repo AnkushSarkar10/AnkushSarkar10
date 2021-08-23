@@ -33,11 +33,22 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/flutter.svg" class="flutter_color" />
 
+<svg xmlns="https://unpkg.com/simple-icons@v5/icons/flutter.svg">
+	<foreignObject>
+        <style>
+        .flutter_color{
+            filter: invert(19%) sepia(72%) saturate(2148%) hue-rotate(189deg) brightness(104%) contrast(103%);
+        }
+        </style>
+    </foreignObject>
+</svg>
+
+<!-- 
 <style>
 .flutter_color{
     filter: invert(19%) sepia(72%) saturate(2148%) hue-rotate(189deg) brightness(104%) contrast(103%);
 }
-</style>
+</style> -->
 
 <br/>
 
