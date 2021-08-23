@@ -37,7 +37,7 @@
 ---
 
 
-[<img src="https://github-spotify-ochre.vercel.app/api/spotify" width="350 />"](https://open.spotify.com/user/p6a4y5olgr2wnq1nmldohj0vd)
+[![Spotify](https://novatorem.vercel.app/api/spotify)]
 
 
 [twitter]: https://twitter.com/Ankush_Sarkar_
