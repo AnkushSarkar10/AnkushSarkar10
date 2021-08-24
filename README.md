@@ -37,7 +37,7 @@
 ---
 
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)]
+[![Spotify](https://git-spotify-live.vercel.app/api/spotify)]
 
 
 [twitter]: https://twitter.com/Ankush_Sarkar_
