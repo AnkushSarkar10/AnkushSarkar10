@@ -9,7 +9,7 @@
 - 🥅 2021 Goals: Be less sad in general!
 - ⚡ Fun fact: Sometimes I am severely depressed and have pannic attacks in the middle of the night!
 
-(these are jokes, someone pls remind me to change these before an actual interview or something)
+(someone pls remind me to change these before an actual interview or something)
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
