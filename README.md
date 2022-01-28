@@ -6,8 +6,8 @@
 
 - 🌱 I love to constantly be learning new things, but I dont!
 - 👯 People make me anxious!
-- 🥅 2021 Goals: Be less sad in general!
-- ⚡ Fun fact: Sometimes I am severely depressed and have pannic attacks in the middle of the night!
+- 🥅 2022 Goals: Do things ig? idk
+- ⚡ Fun fact: No
 
 (someone pls remind me to change these before an actual interview or something)
 ### Connect with me:
