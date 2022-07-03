@@ -37,9 +37,6 @@
 ---
 
 
-[![Spotify](https://git-spotify-live.vercel.app/api/spotify)]
-
-
 [twitter]: https://twitter.com/Ankush_Sarkar_
 [instagram]: https://www.instagram.com/_blaze_kush_/
 [linkedin]: https://www.linkedin.com/in/ankush-sarkar-a55a5b213/
