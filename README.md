@@ -6,7 +6,7 @@
 
 - 🌱 I love to constantly be learning new things, but I dont!
 - 👯 People make me anxious!
-- 🥅 2022 Goals: Do things ig? idk
+- 🥅 2022 Goals: Do things
 - ⚡ Fun fact: No
 
 (someone pls remind me to change these before an actual interview or something)
