@@ -4,8 +4,8 @@
 
 ## I'm a Student at McMaster
 
-- 🌱 I love to constantly be learning new things, but I dont!
-- 👯 People make me anxious!
+- 🌱 generic thing 1
+- 👯 generic thing 2
 - 🥅 2022 Goals: Do things
 - ⚡ Fun fact: No
 
@@ -45,19 +45,3 @@
 [linkedin]: https://www.linkedin.com/in/ankush-sarkar-a55a5b213/
 
 
-<!-- 98fc3a444fb144828c8bfbeb1f0b5ef7
-8fa9325a960d4ba09e6e9456286bdb07
-
-AQAd_-B85-HNhmbxVVSZ0ojT7e7tYd2DOk-aHzPrl0tKg-3opjnEXa6SNGTIaPfSK-wGHwfHPj018VYT_52eet1moys2a7GWi7E1f_TyJMvgxMmKHiG_zZzNdT245_xHm0JC_cDFkIt87qRiw5hNb8AhTY7WyAu5lqFBKw_heVvSDkFOp50gft48Rt7KRkLZofkGCOfMWZDJ1AbgTYnhxBLklhFXRlKjKHnsgrhAWtyVdZMddlo
-
-OThmYzNhNDQ0ZmIxNDQ4MjhjOGJmYmViMWYwYjVlZjc6OGZhOTMyNWE5NjBkNGJhMDllNmU5NDU2Mjg2YmRiMDc=
-
-curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorization: Basic OThmYzNhNDQ0ZmIxNDQ4MjhjOGJmYmViMWYwYjVlZjc6OGZhOTMyNWE5NjBkNGJhMDllNmU5NDU2Mjg2YmRiMDc=" -d "grant_type=authorization_code&redirect_uri=http://localhost/callback/&code=AQAd_-B85-HNhmbxVVSZ0ojT7e7tYd2DOk-aHzPrl0tKg-3opjnEXa6SNGTIaPfSK-wGHwfHPj018VYT_52eet1moys2a7GWi7E1f_TyJMvgxMmKHiG_zZzNdT245_xHm0JC_cDFkIt87qRiw5hNb8AhTY7WyAu5lqFBKw_heVvSDkFOp50gft48Rt7KRkLZofkGCOfMWZDJ1AbgTYnhxBLklhFXRlKjKHnsgrhAWtyVdZMddlo" https://accounts.spotify.com/api/token
-
-
-
-AQA0Y8Ues_WdCsgmKX9swFv1K4_KrmT7_UyACDLGorUC4Jhb8dFbl08GXvwR5fstPn706Snhrb4_403OF1_7jHVL0oJNIinII_v2Wm3vVVH2B5KGybMoNy02aJXmISQLcU0 -->
-
-
-
-<!-- github-spotify-ochre.vercel.app -->
