@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 I'm Ankush Sarkar, a **Fullstack Developer**.
-
-I am currently pursuing a degree in Computer Science at **McMaster University** in 🍁*Hamilton, Canada*. 
+I am currently an intern @Hitachi Rail.
+I am pursuing a degree in Computer Science at **McMaster University**.
 
 ---
 
